@@ -1,0 +1,21 @@
+# Secrets: your API key
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Personal data created by the app
+uploads/
+tracker.json
+
+# Streamlit local settings and secrets
+.streamlit/secrets.toml
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db

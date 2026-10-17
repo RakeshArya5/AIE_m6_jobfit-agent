@@ -1,0 +1,23 @@
+ShopKart (made-up company) - Junior Data Analyst
+Location: Bengaluru (Hybrid) | Experience: 0-1 years
+
+About the role
+You will work with our sales and marketing teams to build reports and find insights in our data.
+
+What you will do
+- Write SQL queries to pull and clean sales data
+- Build and update dashboards in Power BI
+- Prepare weekly MIS reports in Excel
+- Share clear findings with business teams
+
+Must have
+- SQL
+- Excel
+- Power BI
+- Good communication
+
+Nice to have
+- Python (Pandas)
+- Experience with Google Analytics
+
+Apply before 31 October.
